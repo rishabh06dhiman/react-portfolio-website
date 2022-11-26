@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio-website/static/css/main.e6c13ad2.css",
-    "main.js": "/react-portfolio-website/static/js/main.7a750e32.js",
+    "main.js": "/react-portfolio-website/static/js/main.182938f1.js",
     "static/js/937.4bf4b7f0.chunk.js": "/react-portfolio-website/static/js/937.4bf4b7f0.chunk.js",
     "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/react-portfolio-website/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
     "static/media/spaceman4.png": "/react-portfolio-website/static/media/spaceman4.3b99f2450823cab74435.png",
@@ -9,11 +9,11 @@
     "static/media/profile-img.png": "/react-portfolio-website/static/media/profile-img.5179e446ac1a570ce69b.png",
     "index.html": "/react-portfolio-website/index.html",
     "main.e6c13ad2.css.map": "/react-portfolio-website/static/css/main.e6c13ad2.css.map",
-    "main.7a750e32.js.map": "/react-portfolio-website/static/js/main.7a750e32.js.map",
+    "main.182938f1.js.map": "/react-portfolio-website/static/js/main.182938f1.js.map",
     "937.4bf4b7f0.chunk.js.map": "/react-portfolio-website/static/js/937.4bf4b7f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7a750e32.js"
+    "static/js/main.182938f1.js"
   ]
 }
