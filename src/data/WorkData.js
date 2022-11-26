@@ -3,6 +3,16 @@
 export const Work = [
     {
         id:1,
+        name:"Inventory Management portal",
+        description:"A Web Application to automate inventory management in a distribution plant",
+        tags:["angular","D3.js","ngx-charts","responsive web designs"],
+        
+        // demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
+        // github:"https://github.com/rishabh06dhiman"
+        
+    },
+    {
+        id:2,
         name:"FoodWebsiteTemplate",
         description:"It is build on simple HTML,CSS with  smooth scrolling animations.",
         tags:["HTML","CSS",],
@@ -11,7 +21,7 @@ export const Work = [
         // github:"https://github.com/rishabh06dhiman"
     },
     {
-        id:2,
+        id:3,
         name:"LoopLab",
         description:"It is build on simple HTML,CSS,BOOTSTRAP with  smooth scrolling animations.",
         tags:["HTML","CSS","BOOTSTRAP"],
@@ -21,7 +31,7 @@ export const Work = [
         
     },
     {
-        id:3,
+        id:4,
         name:"PortfolioTemplate",
         description:"A Simple PortfolioTemplate Developed on HTML, CSS, BOOTSTRAP",
         tags:["HTML","CSS","BOOTSTRAP"],
@@ -30,7 +40,7 @@ export const Work = [
         // github:"https://github.com/rishabh06dhiman"
     },
     {
-        id:4,
+        id:5,
         name:"Jumper",
         description:"A Cool Simple Game Developed On Core JAVA",
         tags:["JAVA"],
@@ -38,15 +48,6 @@ export const Work = [
         // demo:"https://react-sidebar.vercel.app/",
         // github:"https://github.com/rishabh06dhiman"
        
-    },{
-        id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
-        
-        // demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        // github:"https://github.com/rishabh06dhiman"
-        
     },
     // {
     //     id:6,
